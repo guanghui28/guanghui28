@@ -10,19 +10,19 @@ My name is Quang Huy aka GuangHui. I am a Web Developer. I am interested in Java
 
 <a href="https://github.com/guanghui28/threads-app-clone/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=guanghui28&repo=threads-app-clone&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=guanghui28&repo=threads-app-clone&theme=radical" />
 </a>
 <a href="https://github.com/guanghui28/Snap-Chat-App/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=guanghui28&repo=Snap-Chat-App&theme=merko" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=guanghui28&repo=Snap-Chat-App&theme=merko" />
 </a>
 <a href="https://github.com/guanghui28/Instagram-clone/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=guanghui28&repo=Instagram-clone&theme=ambient_gradient" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=guanghui28&repo=Instagram-clone&theme=maroongold" />
 </a>
 <a href="https://github.com/guanghui28/guanghui-bookshelf/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=guanghui28&repo=guanghui-bookshelf&theme=great-gatsby" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=guanghui28&repo=guanghui-bookshelf&theme=great-gatsby" />
 </a>
 <a href="https://github.com/guanghui28/The-Wild-Oasis/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
