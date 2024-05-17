@@ -10,7 +10,7 @@ My name is Quang Huy aka GuangHui. I am a Web Developer. I am interested in Java
 
 <a href="https://github.com/guanghui28/threads-app-clone/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=guanghui28&repo=threads-app-clone&theme=radical" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=guanghui28&repo=threads-app-clone&theme=radical" />
 </a>
 <a href="https://github.com/guanghui28/Snap-Chat-App/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
