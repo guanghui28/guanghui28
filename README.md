@@ -14,7 +14,7 @@ My name is Quang Huy aka GuangHui. I am a Web Developer. I am interested in Java
 </a>
 <a href="https://github.com/guanghui28/Snap-Chat-App/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=guanghui28&repo=Snap-Chat-App&theme=merko " />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=guanghui28&repo=Snap-Chat-App&theme=merko" />
 </a>
 <a href="https://github.com/guanghui28/transaction-app/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
@@ -26,7 +26,7 @@ My name is Quang Huy aka GuangHui. I am a Web Developer. I am interested in Java
 </a>
 <a href="https://github.com/guanghui28/chat-app-real-time/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=guanghui28&repo=chat-app-real-time&theme=prussian " />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=guanghui28&repo=chat-app-real-time&theme=prussian" />
 </a>
 <a href="https://github.com/guanghui28/Twitter-clone/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
@@ -38,7 +38,7 @@ My name is Quang Huy aka GuangHui. I am a Web Developer. I am interested in Java
 </a>
 <a href="https://github.com/guanghui28/van-gogh-gallery-art-3D/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=guanghui28&repo=van-gogh-gallery-art-3D&theme=algolia " />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=guanghui28&repo=van-gogh-gallery-art-3D&theme=algolia" />
 </a>
 <a href="https://github.com/guanghui28/guanghui-bookshelf/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
@@ -50,7 +50,7 @@ My name is Quang Huy aka GuangHui. I am a Web Developer. I am interested in Java
 </a>
 <a href="https://github.com/guanghui28/The-Wild-Oasis/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=guanghui28&repo=The-Wild-Oasis&theme=solarized-dark " />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=guanghui28&repo=The-Wild-Oasis&theme=solarized-dark" />
 </a>
 <a href="https://github.com/guanghui28/Globe-Exploration/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
@@ -62,7 +62,7 @@ My name is Quang Huy aka GuangHui. I am a Web Developer. I am interested in Java
 </a>
 <a href="https://github.com/guanghui28/Bullseye_Game/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=guanghui28&repo=Bullseye_Game&theme=ayu-mirage " />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=guanghui28&repo=Bullseye_Game&theme=ayu-mirage" />
 </a>
 <a href="https://github.com/guanghui28/Flappy_Fish/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
