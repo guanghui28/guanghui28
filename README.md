@@ -1,20 +1,20 @@
-### WELCOME TO MY PAGE 👋👋👋
+# WELCOME TO MY PAGE 👋👋👋
 
-### My name is Quang Huy aka GuangHui 😊. I'm a Web Developer 🌐
+## My name is Quang Huy aka GuangHui 😊. I'm a Web Developer 🌐
 
-## Skills 🔥
+### 🔥 Skills
 
-- 🖊️ JavaScript is my mainly programming language
-- ✍️ Experienced with web development using ReactJs, NextJs and Node.js.
-- 📇 Familiar with database management using SQL and MongoDB.
+- 🖊️ **JavaScript** is my mainly programming language
+- ✍️ Experienced with web development using **ReactJs**, **NextJs** and **Node.js**.
+- 📇 Familiar with database management using **SQL** and **MongoDB**.
 
-## Habits ❤️
+### ❤️ Habits
 
-- ⚽ Playing Football
-- ☕ Drinking Coffee
-- 📔 Reading books
+- ⚽ Playing **Football**
+- ☕ Drinking **Coffee**
+- 📔 Reading **Books**
 
-## 📫 How to reach me:
+### 📫 How to reach me:
 
 <p style="display:flex; gap: 10px">
   <a href="https://www.facebook.com/profile.php?id=100026606439711">
