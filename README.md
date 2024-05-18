@@ -6,16 +6,16 @@ My name is Quang Huy aka GuangHui. I am a Web Developer. I am interested in Java
 
 <p align="center">
   <a href="https://www.facebook.com/yourprofile" style="margin: 10px;">
-    <img src="https://github.com/guanghui28/guanghui28/blob/master/facebook.svg" alt="Facebook"/>
+    <img src="https://github.com/guanghui28/guanghui28/blob/master/facebook.svg" alt="Facebook" width="40" height="40"/>
   </a>
   <a href="https://github.com/yourprofile" style="margin: 10px;">
-    <img src="https://github.com/guanghui28/guanghui28/blob/master/github.svg" alt="GitHub"/>
+    <img src="https://github.com/guanghui28/guanghui28/blob/master/github.svg" alt="GitHub" width="40" height="40"/>
   </a>
   <a href="mailto:yourname@gmail.com" style="margin: 10px;">
-    <img src="https://github.com/guanghui28/guanghui28/blob/master/gmail.svg" alt="Gmail"/>
+    <img src="https://github.com/guanghui28/guanghui28/blob/master/gmail.svg" alt="Gmail" width="40" height="40"/>
   </a>
   <a href="https://www.instagram.com/yourprofile" style="margin: 10px;">
-    <img src="https://github.com/guanghui28/guanghui28/blob/master/instagram.svg" alt="Instagram"/>
+    <img src="https://github.com/guanghui28/guanghui28/blob/master/instagram.svg" alt="Instagram" width="40" height="40"/>
   </a>
 </p>
 
