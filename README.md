@@ -4,7 +4,10 @@ My name is Quang Huy aka GuangHui. I am a Web Developer. I am interested in Java
 
 ## 📫 How to reach me:
 
-[![facebook](https://github.com/guanghui28/guanghui28/blob/master/facebook.svg) facebook](https://www.facebook.com/profile.php?id=100026606439711) [![GitHub](https://github.com/guanghui28/guanghui28/blob/master/github.svg) GitHub](https://github.com/guanghui28/) [![Gmail](https://github.com/guanghui28/guanghui28/blob/master/gmail.svg) Gmail](mailto:phamquanghuy2809@gmail.com) [![instagram](https://github.com/guanghui28/guanghui28/blob/master/instagram.svg) instagram](https://www.instagram.com/guanghuijs/)
+[![facebook](https://github.com/guanghui28/guanghui28/blob/master/facebook.svg) facebook](https://www.facebook.com/profile.php?id=100026606439711)
+[![GitHub](https://github.com/guanghui28/guanghui28/blob/master/github.svg) GitHub](https://github.com/guanghui28/)
+[![Gmail](https://github.com/guanghui28/guanghui28/blob/master/gmail.svg) Gmail](mailto:phamquanghuy2809@gmail.com)
+[![instagram](https://github.com/guanghui28/guanghui28/blob/master/instagram.svg) instagram](https://www.instagram.com/guanghuijs/)
 
 ![GuangHui's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=guanghui28&show_icons=true&theme=tokyonight)
 
