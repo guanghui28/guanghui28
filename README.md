@@ -1,20 +1,32 @@
 ### WELCOME TO MY PAGE 👋👋👋
 
-My name is Quang Huy aka GuangHui. I am a Web Developer. I am interested in JavaScript and it's frameworks: NextJs, NodeJs, ...<br>
+### My name is Quang Huy aka GuangHui 😊. I'm a Web Developer 🌐
+
+## Skills 🔥
+
+- 🖊️ JavaScript is my mainly programming language
+- ✍️ Experienced with web development using ReactJs, NextJs and Node.js.
+- 📇 Familiar with database management using SQL and MongoDB.
+
+## Habits ❤️
+
+- ⚽ Playing Football
+- ☕ Drinking Coffee
+- 📔 Reading books
 
 ## 📫 How to reach me:
 
-<p style="text-align: center;">
-  <a href="https://www.facebook.com/yourprofile" style="margin-right: 10px;">
+<p style="display:flex; gap: 10px">
+  <a href="https://www.facebook.com/profile.php?id=100026606439711">
     <img src="https://cdn-icons-png.flaticon.com/512/733/733547.png" alt="Facebook" width="40" height="40"/>
   </a>
-  <a href="https://github.com/yourprofile" style="margin-right: 10px;">
+  <a href="https://github.com/guanghui28">
     <img src="https://cdn-icons-png.flaticon.com/512/733/733553.png" alt="GitHub" width="40" height="40"/>
   </a>
-  <a href="mailto:yourname@gmail.com" style="margin-right: 10px;">
+  <a href="mailto:phamquanghuy2809@gmail.com">
     <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" alt="Gmail" width="40" height="40"/>
   </a>
-  <a href="https://www.instagram.com/yourprofile" style="margin-right: 10px;">
+  <a href="https://www.instagram.com/guanghuijs/">
     <img src="https://cdn-icons-png.flaticon.com/512/733/733558.png" alt="Instagram" width="40" height="40"/>
   </a>
 </p>
