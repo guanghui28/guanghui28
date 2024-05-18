@@ -5,21 +5,17 @@ My name is Quang Huy aka GuangHui. I am a Web Developer. I am interested in Java
 ## 📫 How to reach me:
 
 <p style="text-align: center;">
-  <a href="https://www.facebook.com/yourprofile" style="margin: 10px;">
+  <a href="https://www.facebook.com/yourprofile" style="margin-right: 10px;">
     <img src="https://cdn-icons-png.flaticon.com/512/733/733547.png" alt="Facebook" width="40" height="40"/>
-    <br>facebook
   </a>
-  <a href="https://github.com/yourprofile" style="margin: 10px;">
+  <a href="https://github.com/yourprofile" style="margin-right: 10px;">
     <img src="https://cdn-icons-png.flaticon.com/512/733/733553.png" alt="GitHub" width="40" height="40"/>
-    <br>GitHub
   </a>
-  <a href="mailto:yourname@gmail.com" style="margin: 10px;">
+  <a href="mailto:yourname@gmail.com" style="margin-right: 10px;">
     <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" alt="Gmail" width="40" height="40"/>
-    <br>Gmail
   </a>
-  <a href="https://www.instagram.com/yourprofile" style="margin: 10px;">
+  <a href="https://www.instagram.com/yourprofile" style="margin-right: 10px;">
     <img src="https://cdn-icons-png.flaticon.com/512/733/733558.png" alt="Instagram" width="40" height="40"/>
-    <br>instagram
   </a>
 </p>
 
