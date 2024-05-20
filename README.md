@@ -37,21 +37,20 @@
 ### 📫 How to reach me:
 
 <p>
-  <a href="https://www.facebook.com/profile.php?id=100026606439711" style="margin-right: 20px">
+  <a href="https://www.facebook.com/profile.php?id=100026606439711" style="margin-right: 20px;">
     <img src="https://cdn-icons-png.flaticon.com/512/733/733547.png" alt="Facebook" width="40" height="40"/>
   </a>
-  <a href="https://github.com/guanghui28" style="margin-right: 20px">
+  <a href="https://github.com/guanghui28" style="margin-right: 20px;">
     <img src="https://cdn-icons-png.flaticon.com/512/733/733553.png" alt="GitHub" width="40" height="40"/>
   </a>
-  <a href="mailto:phamquanghuy2809@gmail.com" style="margin-right: 20px">
+  <a href="mailto:phamquanghuy2809@gmail.com" style="margin-right: 20px;">
     <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" alt="Gmail" width="40" height="40"/>
   </a>
-  <a href="https://www.instagram.com/guanghuijs/" style="margin-right: 20px">
+  <a href="https://www.instagram.com/guanghuijs/" style="margin-right: 20px;">
     <img src="https://cdn-icons-png.flaticon.com/512/733/733558.png" alt="Instagram" width="40" height="40"/>
   </a>
 </p>
 
-<br/>
 <br/>
 
 ![GuangHui's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=guanghui28&show_icons=true&theme=tokyonight)
