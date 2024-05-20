@@ -17,16 +17,16 @@
 ### 📫 How to reach me:
 
 <p style="display:flex; gap: 10px">
-  <a href="https://www.facebook.com/profile.php?id=100026606439711">
+  <a href="https://www.facebook.com/profile.php?id=100026606439711" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/733/733547.png" alt="Facebook" width="40" height="40"/>
   </a>
-  <a href="https://github.com/guanghui28">
+  <a href="https://github.com/guanghui28" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/733/733553.png" alt="GitHub" width="40" height="40"/>
   </a>
-  <a href="mailto:phamquanghuy2809@gmail.com">
+  <a href="mailto:phamquanghuy2809@gmail.com" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" alt="Gmail" width="40" height="40"/>
   </a>
-  <a href="https://www.instagram.com/guanghuijs/">
+  <a href="https://www.instagram.com/guanghuijs/" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/733/733558.png" alt="Instagram" width="40" height="40"/>
   </a>
 </p>
