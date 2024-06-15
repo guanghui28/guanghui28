@@ -1,5 +1,5 @@
 # WELCOME TO MY PAGE 👋👋👋
-# [➡️Click here to my Website](https://guanghui.vercel.app/)
+# <a href="https://guanghui.vercel.app/" target="_blank">➡️Click here to my Website</a>
 
 ## My name is Quang Huy aka GuangHui 😊. I'm a Web Developer 🌐
 
