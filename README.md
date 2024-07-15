@@ -68,39 +68,15 @@
 <a href="https://github.com/guanghui28/threads-app-clone/">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=guanghui28&repo=threads-app-clone&theme=radical" />
 </a>
-<a href="https://github.com/guanghui28/Snap-Chat-App/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=guanghui28&repo=Snap-Chat-App&theme=merko" />
-</a>
-<a href="https://github.com/guanghui28/Instagram-clone/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=guanghui28&repo=Instagram-clone&theme=maroongold" />
-</a>
 <a href="https://github.com/guanghui28/guanghui-bookshelf/">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=guanghui28&repo=guanghui-bookshelf&theme=great-gatsby" />
 </a>
 <a href="https://github.com/guanghui28/The-Wild-Oasis/">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=guanghui28&repo=The-Wild-Oasis&theme=solarized-dark" />
 </a>
-<a href="https://github.com/guanghui28/transaction-app/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=guanghui28&repo=transaction-app&theme=onedark" />
-</a>
-<a href="https://github.com/guanghui28/github-clone/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=guanghui28&repo=github-clone&theme=monokai" />
-</a>
-<a href="https://github.com/guanghui28/chat-app-real-time/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=guanghui28&repo=chat-app-real-time&theme=prussian" />
-</a>
-<a href="https://github.com/guanghui28/Twitter-clone/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=guanghui28&repo=Twitter-clone&theme=tokyonight" />
-</a>
 <a href="https://github.com/guanghui28/minecraft-clone-using-threejs/">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=guanghui28&repo=minecraft-clone-using-threejs&theme=vue-dark" />
 </a>
 <a href="https://github.com/guanghui28/van-gogh-gallery-art-3D/">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=guanghui28&repo=van-gogh-gallery-art-3D&theme=algolia" />
-</a>
-<a href="https://github.com/guanghui28/Snake_game_vs_AI/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=guanghui28&repo=Snake_game_vs_AI&theme=omni" />
-</a>
-<a href="https://github.com/guanghui28/Owlbear_in_the_forest/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=guanghui28&repo=Owlbear_in_the_forest&theme=cobalt" />
 </a>
