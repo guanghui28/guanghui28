@@ -54,8 +54,6 @@
 
 <br/>
 
-![GuangHui's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=guanghui28&show_icons=true&theme=tokyonight)
-
 <a href="https://github.com/guanghui28/My_Blog/">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=guanghui28&repo=My_Blog&theme=great-gatsby" />
 </a>
