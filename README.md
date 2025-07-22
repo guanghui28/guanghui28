@@ -59,14 +59,8 @@
 <a href="https://github.com/guanghui28/My_Blog/">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=guanghui28&repo=My_Blog&theme=great-gatsby" />
 </a>
-<a href="https://github.com/guanghui28/booking_cabin_app/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=guanghui28&repo=booking_cabin_app&theme=vue-dark" />
-</a>
 <a href="https://github.com/guanghui28/guanghui-s_portfolio/">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=guanghui28&repo=guanghui-s_portfolio&theme=calm" />
-</a>
-<a href="https://github.com/guanghui28/threads-app-clone/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=guanghui28&repo=threads-app-clone&theme=radical" />
 </a>
 <a href="https://github.com/guanghui28/guanghui-bookshelf/">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=guanghui28&repo=guanghui-bookshelf&theme=great-gatsby" />
@@ -76,7 +70,4 @@
 </a>
 <a href="https://github.com/guanghui28/minecraft-clone-using-threejs/">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=guanghui28&repo=minecraft-clone-using-threejs&theme=vue-dark" />
-</a>
-<a href="https://github.com/guanghui28/van-gogh-gallery-art-3D/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=guanghui28&repo=van-gogh-gallery-art-3D&theme=algolia" />
 </a>
