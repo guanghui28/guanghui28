@@ -60,8 +60,9 @@
 
 ### 📫 Contact Me
 
-- 📬 Email: [mailto://phamquanghuy2809@gmail.com]  
-- 🌐 Portfolio: [https://guanghui.vercel.app]  
+- 📬 [Email](mailto://phamquanghuy2809@gmail.com)  
+- 🌐 [Portfolio](https://guanghui.vercel.app)
+- 💼 [LinkedIn](https://www.linkedin.com/in/quang-huy-pham-78803330b/)
 
 ---
 
