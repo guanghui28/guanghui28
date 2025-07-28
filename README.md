@@ -3,7 +3,7 @@
 <p align="center">
   <a href="https://guanghui.vercel.app" target="_blank">🌐 Visit My Portfolio</a>
   • ✉️ 
-  <a href="mailto:phamquanghuy2809@gmail.com">Email Me</a>
+  <a href="mailto:phamquanghuy2809@gmail.com">phamquanghuy2809@gmail.com</a>
 </p>
 
 ---
@@ -62,7 +62,7 @@
 
 ### 📫 Contact Me
 
-- 📬 [Email](mailto:phamquanghuy2809@gmail.com)  
+- 📬 [phamquanghuy2809@gmail.com](mailto:phamquanghuy2809@gmail.com)  
 - 🌐 [Portfolio](https://guanghui.vercel.app)
 - 💼 [LinkedIn](https://www.linkedin.com/in/quang-huy-pham-78803330b/)
 
